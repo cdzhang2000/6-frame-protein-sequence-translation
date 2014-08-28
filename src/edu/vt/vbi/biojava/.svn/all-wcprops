@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/database/!svn/ver/175/HexTranslate/src/edu/vt/vbi/biojava
+END
+HexTranslate2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/database/!svn/ver/175/HexTranslate/src/edu/vt/vbi/biojava/HexTranslate2.java
+END
+ReadFasta.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/database/!svn/ver/51/HexTranslate/src/edu/vt/vbi/biojava/ReadFasta.java
+END
+StringToSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/database/!svn/ver/51/HexTranslate/src/edu/vt/vbi/biojava/StringToSequence.java
+END
+ExtractInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/database/!svn/ver/49/HexTranslate/src/edu/vt/vbi/biojava/ExtractInformation.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/49/HexTranslate/src/edu/vt/vbi/biojava/Hex.java
+END
+WriteToFasta.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/database/!svn/ver/49/HexTranslate/src/edu/vt/vbi/biojava/WriteToFasta.java
+END
+ListAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/database/!svn/ver/49/HexTranslate/src/edu/vt/vbi/biojava/ListAnnotations.java
+END
+HexTranslate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/database/!svn/ver/169/HexTranslate/src/edu/vt/vbi/biojava/HexTranslate.java
+END
+ORF.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/51/HexTranslate/src/edu/vt/vbi/biojava/ORF.java
+END
+WriteFastaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/database/!svn/ver/49/HexTranslate/src/edu/vt/vbi/biojava/WriteFastaFile.java
+END
+StringToSymbolList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/database/!svn/ver/51/HexTranslate/src/edu/vt/vbi/biojava/StringToSymbolList.java
+END
